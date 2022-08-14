@@ -1,0 +1,8 @@
+.wrapper {
+  display: flex;
+  height: 360px;
+}
+
+.header {
+  height: 200px;
+}

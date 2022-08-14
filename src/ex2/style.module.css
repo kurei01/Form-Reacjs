@@ -1,0 +1,21 @@
+.button {
+  background-color: greenyellow;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.text {
+  color: darkred;
+}
+
+.spacing {
+  margin-left: 10px;
+}
+
+.active {
+  border: 1px solid greenyellow;
+  color: greenyellow;
+  background-color: transparent;
+}

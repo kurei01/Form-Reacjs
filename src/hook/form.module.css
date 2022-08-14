@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.formGroup {
+  width: 50%;
+  padding: 10px 20px;
+}
+.formGroup span,
+.select span {
+  color: red;
+}
+
+.select {
+  display: block;
+}
+
+.btn {
+  text-align: center;
+  width: 100%;
+  margin-top: 20px;
+}
